@@ -17,3 +17,11 @@ body{
     font-size: 20px;
     color: cornflowerblue;
 }
+.img-header{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.img-header img{
+    border-radius: 20px;
+}
